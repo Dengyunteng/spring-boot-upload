@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: upload
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: dengyunteng
+Implementation-Vendor-Id: cn.vvi
+Created-By: IntelliJ IDEA
+Build-Jdk: 10.0.1
+Main-Class: ${start-class}
+
